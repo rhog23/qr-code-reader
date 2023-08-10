@@ -1,6 +1,5 @@
 # Requirements: qrcode, opencv-python, pillow, pyzbar
 
-import os
 import cv2
 import qrcode
 import tkinter as tk
