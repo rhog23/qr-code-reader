@@ -204,7 +204,7 @@ window.title('QR Code Generator and Scanner')
 # icon = tk.PhotoImage(file=r'C:/Users/yungng07/Documents/qr-code-reader/icons/icon.png')
 # window.iconphoto(False, icon)
 # Display window icon in .ico format
-window.iconbitmap(r'C:/Users/yungng07/Documents/QRCodeReader/icons/icon.ico')
+window.iconbitmap(r'C:/Users/yungng07/Documents/qr-code-reader/icons/icon.ico')
 # Dimensions and position of window
 window.geometry('500x480+440+180')
 window.resizable(height=False, width=False)
